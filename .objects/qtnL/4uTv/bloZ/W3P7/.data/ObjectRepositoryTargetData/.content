@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LypTxMnkZ0K65k6FET3E5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="8d4152c0-0df4-407d-b414-c832517da212" CvElementArea="248, 201, 21, 22" CvTextArea="272, 205, 30, 15" CvTextArgument="Male" CvType="RadioButton" DesignTimeRectangle="251, 202, 60, 21" ElementType="RadioButton" FullSelectorArgument="&lt;wnd ctrlname='panel1' /&gt;&lt;wnd ctrlname='radioButton1' /&gt;" Guid="e6405802-948e-4599-8fb6-c242d9bf663e" ScopeSelectorArgument="&lt;wnd app='sampledesktopapp.exe' ctrlname='Form1' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="0a8f963822c59ed786df3c11b3d0df0b.png" xmlns="">0Oue6u3HiY0-MRqKiYxKeQg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

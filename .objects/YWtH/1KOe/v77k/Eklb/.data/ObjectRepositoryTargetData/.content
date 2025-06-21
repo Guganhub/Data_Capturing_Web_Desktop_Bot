@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oLXWqx00KU2wEczL8VDLxA" Reference="IGSmY2UpXkCjUzmUvYupYw/Eklb9TlFu0qDvc3ROdqMoA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="80f01d25-bb4a-4460-9698-6449f2f80c41" ContentHash="SWnJcgmsRkOysBdLrgp_5Q" CvElementArea="1544, 397, 254, 47" CvType="InputBox" DesignTimeRectangle="1547, 296, 249, 42" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='email' class='bubble-element Input a1750350668163x1700' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="d6f4822a-d5df-4a9b-90de-4ffb0de74853" ImageBase64="" IsResponsive="True" Reference="IGSmY2UpXkCjUzmUvYupYw/Eklb9TlFu0qDvc3ROdqMoA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="80f01d25-bb4a-4460-9698-6449f2f80c41" CvTextArea="1439, 409, 81, 17" CvTextArgument="Personal:" CvType="Text" DesignTimeRectangle="1439, 298, 108, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Personal:' class='content' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Personal:' /&gt;" Guid="42dbc3a3-ecda-4c4e-b5ed-2c690b1a7a42" ImageBase64="" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1f3d098dbe4adedce05d5c80961c3b30.png" xmlns="">0T6DkClKsUEuJijcEOzVArQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4Y1lcZBESk-YXD0__jjQXg" Reference="IGSmY2UpXkCjUzmUvYupYw/HAtWR3f3A0iQi8f2tLsF7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="87ea4076-84ba-4126-8aab-b40449732ab1" ContentHash="YmV4JkU4Yk-650YJJQbBFA" CvTextArea="271, 570, 57, 16" CvTextArgument="Female" CvType="Text" DesignTimeRectangle="266, 570, 171, 17" ElementType="Text" Guid="32199401-ace4-4c34-93b5-52b2104fd753" ImageBase64="" Reference="IGSmY2UpXkCjUzmUvYupYw/HAtWR3f3A0iQi8f2tLsF7Q" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="87ea4076-84ba-4126-8aab-b40449732ab1" CvElementArea="237, 564, 26, 26" CvType="RadioButton" DesignTimeRectangle="237, 564, 26, 26" ElementType="RadioButton" Guid="1bca39d5-87f8-49a8-8884-fb8c99b2ea06" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0802ea4f84dd801e41d472f3114f0995.png" xmlns="">0ukBZujj7PUmY5h5iX5DvYw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

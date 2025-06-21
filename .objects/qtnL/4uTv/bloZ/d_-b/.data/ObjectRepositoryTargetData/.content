@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="39uMCjlvkU-yQmiAnEgEpw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="45c354a0-4478-42c0-9d16-c920ef5ab2c0" CvElementArea="441, 590, 123, 46" CvTextArea="485, 605, 32, 15" CvTextArgument="Save" CvType="Button" DesignTimeRectangle="443, 591, 123, 46" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlname='button1' /&gt;" Guid="03a3b132-76f7-4609-9665-e4565ed1bb84" ScopeSelectorArgument="&lt;wnd app='sampledesktopapp.exe' ctrlname='Form1' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="1a28fb7de2ffc9cb6a086aae557a3b79.png" xmlns="">06nG-EqwDNUaOxtmm8CrFEA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
